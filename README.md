@@ -15,10 +15,11 @@ uv init
 uv add a2a-sdk starlette sse-starlette uvicorn pydantic langgraph
 
 ### Steps to run the hello_world a2a
-mkdir a2a_helloworld
-create:
+- mkdir a2a_helloworld
+
+- create:
     - main.py
     - agent_executor.py
     - client.py
-uv run main.py
-uv run client.py
+- uv run main.py
+- uv run client.py
