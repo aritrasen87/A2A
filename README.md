@@ -15,7 +15,7 @@ uv init
 ## Install dependencies
 uv add a2a-sdk starlette sse-starlette uvicorn pydantic langgraph dotenv langgraph-supervisor langchain langchain_openai langchain_community
 
-### Steps to run the hello_world a2a 
+## Steps to run the hello_world a2a 
 
 - create:
     - main.py
@@ -25,7 +25,7 @@ uv add a2a-sdk starlette sse-starlette uvicorn pydantic langgraph dotenv langgra
 - uv run client.py
 
 
-### Steps to run the langgraph a2a agent 
+## Steps to run the langgraph a2a agent 
 cd a2a_langgraph
 
 - create:
