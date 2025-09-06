@@ -12,9 +12,9 @@ source .venv/bin/activate
 uv init
 
 ## Install dependencies
-uv add a2a-sdk starlette sse-starlette uvicorn pydantic langgraph
+uv add a2a-sdk starlette sse-starlette uvicorn pydantic langgraph dotenv langgraph-supervisor langchain langchain_openai langchain_community
 
-### Steps to run the hello_world a2a
+### Steps to run the hello_world a2a 
 - mkdir a2a_helloworld
 
 - create:
