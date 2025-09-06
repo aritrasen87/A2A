@@ -1,3 +1,6 @@
+YouTube playlist : https://www.youtube.com/playlist?list=PLOrU905yPYXKm6uMMmWKHLatfgA7tJxom
+Channel Link: https://www.youtube.com/@AritraSen
+
 ## Create the project folder
 mkdir a2a
 
